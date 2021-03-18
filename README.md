@@ -21,7 +21,7 @@ Note: You can also modify the game by going to runner.py and changing the height
 
 ----
 
-Some screenshots from the pygame app
+Some screenshots from the game
 
 ![screenshot1](screenshots/minesweeper_img1.png)
 ![screenshot2](screenshots/minesweeper_img2.png)
